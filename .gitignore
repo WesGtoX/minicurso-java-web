@@ -37,3 +37,5 @@ target/
 .metadata
 .plugins
 .recommenders
+apache-tomcat-9.0.12/
+Servers/
